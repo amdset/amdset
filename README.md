@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amdset — a dedicated .NET Full Stack Developer
+- 👋 Hi, I’m @Misael — a dedicated .NET Full Stack Developer
 - 🧠 I work with .NET Core, Angular, REST APIs, Entity Framework, and SQL Server
 - 🔍 Passionate about web technologies, clean architecture, and scalable backend systems
 - 🛠️ I enjoy building tools that improve developer productivity and streamline business processes
